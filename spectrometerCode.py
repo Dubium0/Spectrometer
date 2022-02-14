@@ -141,7 +141,7 @@ class Spektrometer:
     
     
 
-
+"""
 
 obj = Spektrometer("hidrojen spektrum.png")
 
@@ -152,7 +152,7 @@ print(obj.colors)
 print(obj.colorSet)
 
 
-
+"""
 
 
 
